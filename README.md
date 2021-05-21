@@ -26,10 +26,10 @@ Soon i intend to bring my contributions, and they will not be just on the front 
 
 ### My daily tech stack::
 
-[<code>
+[<code style="background-color: none;">
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+[<code style="background-color: none;">
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
@@ -43,13 +43,12 @@ Soon i intend to bring my contributions, and they will not be just on the front 
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ---
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutembergsa)](https://github.com/gutembergsa/github-readme-stats)
 
 ---
 
-[website]: https://gutembergsa.now.sh
+[website]: https://gutembergsa.com
 [linkedin]: https://www.linkedin.com/in/sabesan96
-[dev]: https://dev.to/thesabesan
-[gmail]: mailto:sabesan996@gmail.com
-[whatsapp]: https://wa.me/996862053
+[dev]: https://gutembergsa.com
+[gmail]: mailto:gutemberg.silvasa@outlook.com
+[whatsapp]: https://wa.me/5512996862053
