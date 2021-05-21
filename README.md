@@ -25,7 +25,7 @@ Soon i intend to bring my contributions, and they will not be just on the front 
 
 ---
 
-### My daily tech stack::
+### My daily tech stack:
 
 [<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />](https://reactjs.org/)
