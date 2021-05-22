@@ -17,7 +17,7 @@
 <em>
 Things are kind of stuck around here.. And this is happening because<br> 
 I’ve been dedicating 200% of my time building amazing screens and learning more and<br>
-more about how to solve problems and hot create great solutions, but don't panic, ok?<br>
+more about how to solve problems and how to create great solutions, but don't panic, ok?<br>
 Soon i intend to bring my contributions, and they will not be just on the front end :grin:
 </em>
 </p>
