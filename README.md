@@ -4,11 +4,11 @@
 - :computer: I’m currently working in a front-end role with all kinds of projects at zappts!
 - :closed_book: I’m currently getting deeper in front-end development skills, and also soft skills to help teamwork!
 
-### Contact me: <img src="https://media.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" height="32">
+### Contact me:   <img src="https://media.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" height="32">
 
-[<img align="left" alt="Gutem" height="22px" src="./SocialLogo/Mail.png" />][outlook]
 [<img align="left" alt="Gutem | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Gutem | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Gutem" height="22px" src="./SocialLogo/Mail.png" />][outlook]
 
 <br />
 <br />
