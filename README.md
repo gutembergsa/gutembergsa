@@ -1,9 +1,8 @@
 ### Hi there, I'm Gutemberg Sá
 ## I'm a Front-end developer, graduated in mechatronic technology and who loves to program!
 
-- :computer: I’m currently working as a front-end on all types of projects at zappts!
+- :computer: I’m currently working in a front-end role with all kinds of projects at zappts!
 - :closed_book: I’m currently getting deeper in front-end development skills, and also soft skills to help teamwork!
-<br />
 
 ### Contact me: <img src="https://media.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" height="32">
 
@@ -17,8 +16,8 @@
 <p align=center>
 <em>
 Things are kind of stuck around here.. And this is happening because<br> 
-I’ve been dedicating 200% of my time building amazing stuff and learning more and<br>
-more about how to solve problems and create beautiful screens, but don't panic, ok?<br>
+I’ve been dedicating 200% of my time building amazing screens and learning more and<br>
+more about how to solve problems and hot create great solutions, but don't panic, ok?<br>
 Soon i intend to bring my contributions, and they will not be just on the front end :grin:
 </em>
 </p>
