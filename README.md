@@ -1,8 +1,6 @@
 ### Hi there, I'm Gutemberg Sá
 # I'm a Software engineer who graduated in mechatronic technology and who loves to program!
 
-- :computer: I mostly worked in front-end roles with all kinds of projects!
-
 ## Contact me:   <img src="https://media.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" height="32">
 
 [<img align="left" alt="Gutem | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
